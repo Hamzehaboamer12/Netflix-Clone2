@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
-import axios from 'axios';
-import { Button, Container, Row,Card, Col } from 'react-bootstrap';
+// import axios from 'axios';
+import { Button } from 'react-bootstrap';
 import ModalMovie from "../ModalMovie/ModalMovie";
 // import Movie from '../Movie/Movie';
 //import './favorite.css';
